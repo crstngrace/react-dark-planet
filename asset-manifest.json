@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dark-planet/static/css/main.c6198a4f.css",
+    "main.js": "/react-dark-planet/static/js/main.51e99738.js",
+    "index.html": "/react-dark-planet/index.html",
+    "main.c6198a4f.css.map": "/react-dark-planet/static/css/main.c6198a4f.css.map",
+    "main.51e99738.js.map": "/react-dark-planet/static/js/main.51e99738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6198a4f.css",
+    "static/js/main.51e99738.js"
+  ]
+}
