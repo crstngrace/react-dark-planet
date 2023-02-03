@@ -1,0 +1,13 @@
+@mixin home-circles {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -35%);
+}
+
+@mixin work-circles {
+  position: fixed;
+  top: 50%;
+  left: 0%;
+  transform: translate(-50%, -35%);
+}

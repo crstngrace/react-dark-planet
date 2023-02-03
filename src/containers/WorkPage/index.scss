@@ -1,0 +1,17 @@
+@import '../mixins.scss';
+
+#work {
+  .circles {
+    @include work-circles;
+
+    &.animate {
+      animation: move-from-home 1s;
+    }
+  }
+}
+
+@keyframes move-from-home {
+  0% {
+    @include home-circles;
+  }
+}

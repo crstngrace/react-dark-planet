@@ -1,0 +1,28 @@
+#home {
+  .content {
+    min-height: 100vh;
+    z-index: 3;
+  }
+
+  .title {
+    font-size: 60px;
+    font-weight: normal;
+  }
+
+  .subtitle,
+  .description {
+    font-size: 12px;
+  }
+
+  @media (min-width: 768px) {
+    .title {
+      font-size: 124px;
+      font-weight: normal;
+    }
+
+    .subtitle,
+    .description {
+      font-size: 14px;
+    }
+  }
+}
