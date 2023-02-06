@@ -1,17 +1,8 @@
-@import '../mixins.scss';
-
 #work {
   .circles {
-    @include work-circles;
-
-    &.animate {
-      animation: move-from-home 1s;
-    }
-  }
-}
-
-@keyframes move-from-home {
-  0% {
-    @include home-circles;
+    position: fixed;
+    top: 50%;
+    left: 0%;
+    transform: translate(-50%, -35%);
   }
 }
