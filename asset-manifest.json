@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-dark-planet/static/css/main.c6198a4f.css",
+    "main.css": "/react-dark-planet/static/css/main.60295d06.css",
     "main.js": "/react-dark-planet/static/js/main.dfab8aca.js",
     "index.html": "/react-dark-planet/index.html",
-    "main.c6198a4f.css.map": "/react-dark-planet/static/css/main.c6198a4f.css.map",
+    "main.60295d06.css.map": "/react-dark-planet/static/css/main.60295d06.css.map",
     "main.dfab8aca.js.map": "/react-dark-planet/static/js/main.dfab8aca.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6198a4f.css",
+    "static/css/main.60295d06.css",
     "static/js/main.dfab8aca.js"
   ]
 }
