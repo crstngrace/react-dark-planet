@@ -1,20 +1,10 @@
-@import '../mixins.scss';
-
 #home {
   position: relative;
 
   .circles {
-    display: flex;
-    @include home-circles;
-
-    &.animate {
-      animation: move-from-work 1s;
-    }
-  }
-}
-
-@keyframes move-from-work {
-  0% {
-    @include work-circles;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -35%);
   }
 }
